@@ -26,4 +26,8 @@ int main(){
         c = c + 1;
     }
 
+    system("pause");
+
+    return 0;
+
 }
