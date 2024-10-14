@@ -13,5 +13,5 @@ using namespace std;
     cout << "Your BMI is: ";
     cout << bmi << endl;
     system("pause");
-
+    return 0;
  }
