@@ -12,5 +12,6 @@ cout << " ";
 cout << "in celcius is: ";
 cout << b << endl;
 system("pause");
+  return 0;
 
 }
